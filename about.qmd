@@ -18,9 +18,30 @@ about:
 
 I am a current PhD candidate at the University of Sydney. I'm an archaeologist who currently studies Indigenous Australian grindstone production and quarrying. Through this I have gained knowledge in photogrammetry, tribology, python programming and data analysis. 
 
-
-This blog contains various short articles on a variety of topics related to archaeology, photogrammetry, programming and maybe some finance and other things that interest me from time to time. 
+This blog will contain various short articles on a variety of topics related to archaeology, photogrammetry, programming and maybe some finance and other things that interest me from time to time. 
 
 ## Education
 
-University of Sydney, 
+University of Sydney | Sydney, NSW
+PhD in Archaeology | Oct 2019 - 
+
+University of Sydney | Sydney, NSW
+B.A - Archaeology (Honours First Class) | 2013 - 2018
+Thesis Title "Quantifying Lithic Reduction: A Reassessment
+of the Scar Density Index"
+  - I produced a replication of the Scar Density Index, using photogrammetry to record the sequential reduction of a set of
+  ceramic cores. Based on theoretical and experimental results,
+  I argue that the Scar Density Index does not work, and cannot work!
+
+University of Sydney | Sydney, NSW
+B.Sc - Geology and Geophysics | 2013 - 2017
+
+## Projects
+
+Rough | Python Package (Work in Progress)
+Rough is a python package for the calculation of various surface roughness parameters from raster arrays. It is fully open source, documented and produced with NbDev. 
+
+## Why "200 Views"?
+Whenever your taking pics for a photogrammetric model of an object, a good rule of thumb is 200 photos (sometimes called views); 30 photos per angle, with 6 angles. If you add about 20 pics to this for all of the tricky angles, then you've got a good view of the object and a good chance you'll make a great model!
+
+The trick is that each view has to be considered, taken with intention, and shown appropriate care. Making a good model is a conscious practice, a craft, and I hope to bring the same mentality to my blog. 
