@@ -1,5 +1,5 @@
 ---
-title: "blog"
+title: "300 Views"
 listing:
   contents: posts
   sort: "date desc"
