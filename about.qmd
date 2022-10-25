@@ -6,14 +6,21 @@ about:
   links:
     - icon: twitter
       text: Twitter
-      href: https://twitter.com
+      href: https://twitter.com/kieran_mcgee/
     - icon: linkedin
       text: LinkedIn
       href: https://linkedin.com
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/kpjmcg
 
 ---
 
-About this blog
+I am a current PhD candidate at the University of Sydney. I'm an archaeologist who currently studies Indigenous Australian grindstone production and quarrying. Through this I have gained knowledge in photogrammetry, tribology, python programming and data analysis. 
+
+
+This blog contains various short articles on a variety of topics related to archaeology, photogrammetry, programming and maybe some finance and other things that interest me from time to time. 
+
+## Education
+
+University of Sydney, 
