@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "blog"
+  title: "300 Views"
   navbar:
     right:
       - about.qmd
@@ -11,6 +11,7 @@ website:
         href: https://github.com/kpjmcg
       - icon: twitter
         href: https://twitter.com/kieran_mcgee/
+  twitter-card: true
 format:
   html:
     theme: flatly
