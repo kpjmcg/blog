@@ -4,7 +4,14 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this blog"
+    "text": "I am a current PhD candidate at the University of Sydney. I’m an archaeologist who currently studies Indigenous Australian grindstone production and quarrying. Through this I have gained knowledge in photogrammetry, tribology, python programming and data analysis.\nThis blog contains various short articles on a variety of topics related to archaeology, photogrammetry, programming and maybe some finance and other things that interest me from time to time."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\nUniversity of Sydney,"
   },
   {
     "objectID": "index.html",
